@@ -15,6 +15,7 @@
     font-weight: 600;
 }
 .nav-menu{
+    color: rgb(61, 1, 61);
     display: flex;
     align-items: center;
     list-style: none;
